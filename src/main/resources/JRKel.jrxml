@@ -43,7 +43,24 @@
                 <textElement textAlignment="Center">
                     <font reportFont="Arial" />
                 </textElement>
+                <textFieldExpression class="java.lang.String">
+                  <![CDATA["Kelurahan yang ada ..."]]>
+                </textFieldExpression>
             </textField>
         </band>
     </pageHeader>
+    
+    <columnHeader>
+      <band height="20" splitType="Stretch">
+        <staticText>
+          <reportElement mode="Opaque" x="0" y="4" width="100" height="15" backcolor="#CBB453"/>
+          <textElement textAligment="Left">
+            <font reportFont="Arial"/>
+          </textElement>
+          <text>
+            <![CDATA[Kode Kecamatan]]>
+          </text>
+        </staticText>
+      </band>
+    </columnHeader>
 </jasperReport>

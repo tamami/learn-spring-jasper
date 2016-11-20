@@ -3,6 +3,7 @@
     <properties maven-id="tomcat:jasper-compiler-jdt:5.5.4" />
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/tomcat/jasper-compiler-jdt/5.5.4/jasper-compiler-jdt-5.5.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/jasper-compiler-jdt/5.5.4/jasper-compiler-jdt-5.5.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

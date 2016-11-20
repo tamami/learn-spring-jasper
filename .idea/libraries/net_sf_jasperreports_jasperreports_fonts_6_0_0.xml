@@ -3,6 +3,7 @@
     <properties maven-id="net.sf.jasperreports:jasperreports-fonts:6.0.0" />
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports-fonts/6.0.0/jasperreports-fonts-6.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports-fonts/6.0.0/jasperreports-fonts-6.0.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
